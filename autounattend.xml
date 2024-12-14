@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <unattend xmlns="urn:schemas-microsoft-com:unattend" xmlns:wcm="http://schemas.microsoft.com/WMIConfig/2002/State">
-	<!--https://schneegans.de/windows/unattend-generator/?LanguageMode=Unattended&UILanguage=en-US&Locale=en-US&Keyboard=00000409&UseKeyboard2=true&Locale2=pt-BR&Keyboard2=00010416&GeoLocation=244&ProcessorArchitecture=amd64&BypassRequirementsCheck=true&BypassNetworkCheck=true&ComputerNameMode=Custom&ComputerName=penguin&CompactOsMode=Default&TimeZoneMode=Explicit&TimeZone=E.+South+America+Standard+Time&PartitionMode=Interactive&WindowsEditionMode=Unattended&WindowsEdition=pro&UserAccountMode=Unattended&AccountName0=Erick&AccountPassword0=1337&AccountGroup0=Administrators&AccountName1=&AccountName2=&AccountName3=&AccountName4=&AutoLogonMode=Own&ObscurePasswords=true&PasswordExpirationMode=Unlimited&LockoutMode=Default&HideFiles=HiddenSystem&TaskbarSearch=Hide&ShowFileExtensions=true&DisableWidgets=true&LeftTaskbar=true&DeleteTaskbarIcons=true&HideTaskViewButton=true&DisableBingResults=true&DisableDefender=true&DisableFastStartup=true&EnableRemoteDesktop=true&AllowPowerShellScripts=true&PreventAutomaticReboot=true&DisableAppSuggestions=true&HideEdgeFre=true&MakeEdgeUninstallable=true&WifiMode=Interactive&ExpressSettings=DisableAll&KeysMode=Configure&CapsLockInitial=Off&CapsLockBehavior=Toggle&NumLockInitial=Off&NumLockBehavior=Toggle&ScrollLockInitial=Off&ScrollLockBehavior=Toggle&ColorMode=Custom&SystemColorTheme=Dark&AppsColorTheme=Dark&AccentColor=%230078d4&AccentColorOnBorders=true&EnableTransparency=true&WallpaperMode=Script&WallpaperScript=return+%28+Invoke-WebRequest+-Uri+%27https%3A%2F%2Fimages.pling.com%2Fimg%2F00%2F00%2F56%2F26%2F59%2F1442471%2Fcea53ee03e70531ba8840bfa9e07c96315d225687484f0ecc4a435fb3af5af5f13fa.png%27+-UseBasicParsing+-TimeoutSec+30+%29.Content%3B&Remove3DViewer=true&RemoveBingSearch=true&RemoveCamera=true&RemoveClipchamp=true&RemoveClock=true&RemoveCopilot=true&RemoveCortana=true&RemoveFamily=true&RemoveFeedbackHub=true&RemoveGetHelp=true&RemoveHandwriting=true&RemoveInternetExplorer=true&RemoveMailCalendar=true&RemoveMaps=true&RemoveMathInputPanel=true&RemoveMediaFeatures=true&RemoveMixedReality=true&RemoveZuneVideo=true&RemoveNews=true&RemoveNotepadClassic=true&RemoveNotepad=true&RemoveOffice365=true&RemoveOneDrive=true&RemoveOneNote=true&RemoveOneSync=true&RemoveOutlook=true&RemovePaint=true&RemovePaint3D=true&RemovePeople=true&RemovePowerAutomate=true&RemoveQuickAssist=true&RemoveRecall=true&RemoveSkype=true&RemoveSnippingTool=true&RemoveSolitaire=true&RemoveSpeech=true&RemoveStepsRecorder=true&RemoveStickyNotes=true&RemoveTeams=true&RemoveGetStarted=true&RemoveToDo=true&RemoveVoiceRecorder=true&RemoveWallet=true&RemoveWeather=true&RemoveFaxAndScan=true&RemoveWindowsHello=true&RemoveWindowsMediaPlayer=true&RemoveZuneMusic=true&RemoveWordPad=true&StartTilesMode=Default&StartPinsMode=Empty&WdacMode=Skip-->
+	<!--https://schneegans.de/windows/unattend-generator/?LanguageMode=Unattended&UILanguage=en-US&Locale=en-US&Keyboard=00000409&UseKeyboard2=true&Locale2=pt-BR&Keyboard2=00010416&GeoLocation=32&ProcessorArchitecture=amd64&BypassRequirementsCheck=true&BypassNetworkCheck=true&ComputerNameMode=Custom&ComputerName=penguin&CompactOsMode=Default&TimeZoneMode=Explicit&TimeZone=E.+South+America+Standard+Time&PartitionMode=Interactive&WindowsEditionMode=Unattended&WindowsEdition=pro&UserAccountMode=Unattended&AccountName0=Erick&AccountPassword0=1337&AccountGroup0=Administrators&AccountName1=&AccountName2=&AccountName3=&AccountName4=&AutoLogonMode=Own&PasswordExpirationMode=Unlimited&LockoutMode=Default&HideFiles=HiddenSystem&TaskbarSearch=Hide&ShowFileExtensions=true&DisableWidgets=true&LeftTaskbar=true&DeleteTaskbarIcons=true&HideTaskViewButton=true&DisableBingResults=true&DisableDefender=true&DisableFastStartup=true&EnableRemoteDesktop=true&AllowPowerShellScripts=true&PreventAutomaticReboot=true&DisableAppSuggestions=true&HideEdgeFre=true&MakeEdgeUninstallable=true&WifiMode=Interactive&ExpressSettings=DisableAll&KeysMode=Configure&CapsLockInitial=Off&CapsLockBehavior=Toggle&NumLockInitial=Off&NumLockBehavior=Toggle&ScrollLockInitial=Off&ScrollLockBehavior=Toggle&ColorMode=Custom&SystemColorTheme=Dark&AppsColorTheme=Dark&AccentColor=%2355ff55&AccentColorOnBorders=true&EnableTransparency=true&WallpaperMode=Solid&WallpaperColor=%23000000&Remove3DViewer=true&RemoveBingSearch=true&RemoveCamera=true&RemoveClipchamp=true&RemoveClock=true&RemoveCopilot=true&RemoveCortana=true&RemoveFamily=true&RemoveFeedbackHub=true&RemoveGetHelp=true&RemoveHandwriting=true&RemoveMailCalendar=true&RemoveMaps=true&RemoveMathInputPanel=true&RemoveMediaFeatures=true&RemoveMixedReality=true&RemoveZuneVideo=true&RemoveNews=true&RemoveNotepad=true&RemoveOffice365=true&RemoveOneDrive=true&RemoveOneNote=true&RemoveOneSync=true&RemoveOutlook=true&RemovePaint=true&RemovePaint3D=true&RemovePeople=true&RemovePowerAutomate=true&RemoveQuickAssist=true&RemoveRecall=true&RemoveSkype=true&RemoveSnippingTool=true&RemoveSolitaire=true&RemoveSpeech=true&RemoveStepsRecorder=true&RemoveStickyNotes=true&RemoveTeams=true&RemoveGetStarted=true&RemoveToDo=true&RemoveVoiceRecorder=true&RemoveWallet=true&RemoveWeather=true&RemoveFaxAndScan=true&RemoveWindowsHello=true&RemoveWindowsMediaPlayer=true&RemoveZuneMusic=true&RemoveWordPad=true&RemoveXboxApps=true&RemoveYourPhone=true&StartTilesMode=Default&StartPinsMode=Empty&WdacMode=Skip-->
 	<settings pass="offlineServicing"></settings>
 	<settings pass="windowsPE">
 		<component name="Microsoft-Windows-International-Core-WinPE" processorArchitecture="amd64" publicKeyToken="31bf3856ad364e35" language="neutral" versionScope="nonSxS">
@@ -139,8 +139,8 @@
 						<Name>Erick</Name>
 						<Group>Administrators</Group>
 						<Password>
-							<Value>MQAzADMANwBQAGEAcwBzAHcAbwByAGQA</Value>
-							<PlainText>false</PlainText>
+							<Value>1337</Value>
+							<PlainText>true</PlainText>
 						</Password>
 					</LocalAccount>
 				</LocalAccounts>
@@ -150,8 +150,8 @@
 				<Enabled>true</Enabled>
 				<LogonCount>1</LogonCount>
 				<Password>
-					<Value>MQAzADMANwBQAGEAcwBzAHcAbwByAGQA</Value>
-					<PlainText>false</PlainText>
+					<Value>1337</Value>
+					<PlainText>true</PlainText>
 				</Password>
 			</AutoLogon>
 			<OOBE>
@@ -227,6 +227,14 @@ $selectors = @(
 	'Microsoft.WindowsSoundRecorder';
 	'Microsoft.Wallet';
 	'Microsoft.BingWeather';
+	'Microsoft.Xbox.TCUI';
+	'Microsoft.XboxApp';
+	'Microsoft.XboxGameOverlay';
+	'Microsoft.XboxGamingOverlay';
+	'Microsoft.XboxIdentityProvider';
+	'Microsoft.XboxSpeechToTextOverlay';
+	'Microsoft.GamingApp';
+	'Microsoft.YourPhone';
 	'Microsoft.ZuneMusic';
 	'Microsoft.ZuneVideo';
 );
@@ -274,10 +282,7 @@ $logfile = 'C:\Windows\Setup\Scripts\RemovePackages.log';
 $selectors = @(
 	'Print.Fax.Scan';
 	'Language.Handwriting';
-	'Browser.InternetExplorer';
 	'MathRecognizer';
-	'Microsoft.Windows.Notepad';
-	'Microsoft.Windows.Notepad.System';
 	'OneCoreUAP.OneSync';
 	'Microsoft.Windows.MSPaint';
 	'App.Support.QuickAssist';
@@ -480,7 +485,7 @@ $lightThemeSystem = 0;
 $lightThemeApps = 0;
 $accentColorOnStart = 0;
 $enableTransparency = 1;
-$htmlAccentColor = '#0078D4';
+$htmlAccentColor = '#55FF55';
 &amp; {
 	$params = @{
 		LiteralPath = 'Registry::HKCU\Software\Microsoft\Windows\CurrentVersion\Themes\Personalize';
@@ -527,9 +532,6 @@ $htmlAccentColor = '#0078D4';
 	$palette[ $index++ ] = $accentColor.A;
 	Set-ItemProperty @params -Value $palette -Type 'Binary' -Force;
 };
-		</File>
-		<File path="C:\Windows\Setup\Scripts\GetWallpaper.ps1" transformation="Text">
-return ( Invoke-WebRequest -Uri 'https://images.pling.com/img/00/00/56/26/59/1442471/cea53ee03e70531ba8840bfa9e07c96315d225687484f0ecc4a435fb3af5af5f13fa.png' -UseBasicParsing -TimeoutSec 30 ).Content;
 		</File>
 		<File path="C:\Windows\Setup\Scripts\SetWallpaper.ps1" transformation="Text">
 Add-Type -TypeDefinition '
@@ -586,7 +588,7 @@ function Set-WallpaperImage {
 	Set-ItemProperty -Path 'Registry::HKCU\Software\Microsoft\Windows\CurrentVersion\Explorer\Wallpapers' -Name 'BackgroundType' -Type 'DWord' -Value 0 -Force;
 	Set-ItemProperty -Path 'Registry::HKCU\Control Panel\Desktop' -Name 'WallPaper' -Type 'String' -Value $LiteralPath -Force;
 }
-Set-WallpaperImage -LiteralPath 'C:\Windows\Setup\Scripts\Wallpaper';
+Set-WallpaperColor -HtmlColor '#000000';
 		</File>
 		<File path="C:\Windows\Setup\Scripts\Specialize.ps1" transformation="Text">
 $scripts = @(
@@ -649,14 +651,6 @@ $scripts = @(
 	{
 		Get-Content -LiteralPath 'C:\Windows\Setup\Scripts\SetStartPins.ps1' -Raw | Invoke-Expression;
 	};
-	{
-		try {
-		  $bytes = Get-Content -LiteralPath 'C:\Windows\Setup\Scripts\GetWallpaper.ps1' -Raw | Invoke-Expression;
-		  [System.IO.File]::WriteAllBytes( 'C:\Windows\Setup\Scripts\Wallpaper', $bytes );
-		} catch {
-		  $_;
-		}
-	};
 );
 
 &amp; {
@@ -673,6 +667,9 @@ $scripts = @(
 $scripts = @(
 	{
 		Get-AppxPackage -Name 'Microsoft.Windows.Ai.Copilot.Provider' | Remove-AppxPackage;
+	};
+	{
+		Set-WinHomeLocation -GeoId 32;
 	};
 	{
 		Get-Content -LiteralPath 'C:\Windows\Setup\Scripts\TaskbarIcons.ps1' -Raw | Invoke-Expression;
